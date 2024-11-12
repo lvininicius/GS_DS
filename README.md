@@ -1,4 +1,4 @@
-# Global Solution 2024 - Análise de Pegada de Carbono
+# Global Solution 2024 - Análise de Pegada de Carbono 🌐:
 
 ## Abstract
 Este projeto tem como objetivo analisar a pegada de carbono de diferentes nações, com foco no Brasil e em sua comparação com outras regiões e países, incluindo o cenário global, o continente americano, a OCDE e os EUA. Utilizando dados de fontes confiáveis e técnicas de análise de dados, estatística descritiva e aprendizado de máquina (ML), o projeto irá explorar padrões de emissões e sugerir áreas de potencial redução para o Brasil. Este trabalho é uma oportunidade para aprofundar as habilidades em ciência de dados e contribuir para o entendimento das ações necessárias na mitigação das mudanças climáticas.
@@ -7,7 +7,7 @@ Este projeto tem como objetivo analisar a pegada de carbono de diferentes naçõ
 
 ---
 
-## Escopo do Projeto
+## Escopo do Projeto 🌎
 Este projeto tem o objetivo de:
 1. Analisar a pegada de carbono do Brasil e compará-la com outras regiões e países.
 2. Identificar os setores que mais contribuem para as emissões e explorar possíveis estratégias de redução.
@@ -16,7 +16,7 @@ Este projeto tem o objetivo de:
 
 ---
 
-## Perguntas de Pesquisa
+## Perguntas de Pesquisa ❓
 1. Qual é a pegada de carbono atual do Brasil e como ela se compara à média global?
 2. Quais setores no Brasil contribuem mais para as emissões de gases de efeito estufa?
 3. Como a pegada de carbono do Brasil se compara à do continente americano e dos países da OCDE?
